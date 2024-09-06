@@ -1,0 +1,3 @@
+[submodule "submodules/cmake-redis"]
+	path = submodules/cmake-redis
+	url = https://github.com/AmanoTeam/cmake-redis
